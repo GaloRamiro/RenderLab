@@ -18,7 +18,7 @@ function App() {
     <div style={{ fontFamily: 'system-ui, -apple-system, sans-serif', margin: 0, padding: 0, backgroundColor: '#f8fafc', minHeight: '100vh' }}>
       
       {/* Navbar Superior con Estilo Azul Oscuro Ejecutivo */}
-      <nav style={{ backgroundColor: '#0f172a', color: 'white', padding: '16px 40px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
+      <nav style={{ backgroundColor: '#ffffff', color: 'white', padding: '16px 40px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
         <h1 style={{ margin: 0, fontSize: '1.3rem', fontWeight: '700', letterSpacing: '0.5px' }}>🧪 React Render Lab</h1>
         
         {/* Menú de Opciones */}
