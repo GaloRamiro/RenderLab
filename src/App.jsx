@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import Dashboard from './components/Dashboard';
 
-// Añadimos el /Index explícito apuntando al archivo real
-import Caso1EffectIndex from './components/Caso1Effect/Index';
-import Caso2RenderIndex from './components/Caso2Render/Index';
+// Reemplaza tus líneas viejas por estas dos exactamente:
+import Caso1EffectIndex from './components/Caso1Render/Index.jsx';
+import Caso2RenderIndex from './components/Caso2Render/Index.jsx';
 
 /**
  * @component App
